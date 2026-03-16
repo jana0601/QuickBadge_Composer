@@ -9,7 +9,9 @@ Supports:
 - single record generation,
 - batch generation from CSV.
 
-Layout:
+### Layout:
+![Scan tab](layout.png)
+### Example:
 ![Scan tab](examples/example.png)
 
 ## Quick Start
