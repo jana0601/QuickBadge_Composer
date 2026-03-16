@@ -9,6 +9,9 @@ Supports:
 - single record generation,
 - batch generation from CSV.
 
+Layout:
+![Scan tab](examples/example.png)
+
 ## Quick Start
 
 1. Create and activate a Python 3.10+ environment.
