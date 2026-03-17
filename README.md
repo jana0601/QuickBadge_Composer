@@ -9,6 +9,10 @@ Supports:
 - single record generation,
 - batch generation from CSV.
 
+This application can be downloaded in:
+
+https://drive.google.com/file/d/1P7AeK2xio30rgzeeALrIflzAWp-tORYy/view?usp=sharing
+
 ### Layout:
 ![Scan tab](layout.png)
 ### Example:
